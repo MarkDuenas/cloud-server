@@ -2,9 +2,8 @@
 
 ### Author: Mark Duenas
 
-[Test Reports](https://github.com/MarkDuenas/basic-express-server/actions)
-
-[Deployed Link](https://basic-express-md.herokuapp.com/)
+[Deployed Link Using GUI](http://cloudservertest-env.eba-fetsd2uu.us-west-2.elasticbeanstalk.com/person)
+[Deployed Link Using CLI](http://cloudservertest-env.eba-fetsd2uu.us-west-2.elasticbeanstalk.com/person)
 
 [Pull Req](https://github.com/MarkDuenas/basic-express-server/pull/3)
 
