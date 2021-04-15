@@ -13,7 +13,7 @@ app.use(logger);
 
 
 app.get('/person', validator, (req, res) => {
-  res.status(200).json(`HELLO THERE ${req.query.name} WELCOME TO OUR SITE!`);  
+  res.status(200).json(`HELLO THERE ${req.query.name} THIS IS UPDATED`);  
 })
 
 
