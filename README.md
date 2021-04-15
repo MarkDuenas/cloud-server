@@ -2,8 +2,8 @@
 
 ### Author: Mark Duenas
 
-[Deployed Link Using GUI](http://cloudservertest-env.eba-fetsd2uu.us-west-2.elasticbeanstalk.com/person)
-[Deployed Link Using CLI](http://cloudservertest-env.eba-fetsd2uu.us-west-2.elasticbeanstalk.com/person)
+[Deployed Link Using GUI](http://cloudservertest-env.eba-fetsd2uu.us-west-2.elasticbeanstalk.com/person?name=Mark)
+[Deployed Link Using CLI](http://cloud-server-part2-dev.us-west-2.elasticbeanstalk.com/person?name=Mark)
 
 [Pull Req](https://github.com/MarkDuenas/basic-express-server/pull/3)
 
